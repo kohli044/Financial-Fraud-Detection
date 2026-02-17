@@ -39,13 +39,6 @@ Conducted EDA in Python (Pandas, Matplotlib/Seaborn).
 Engineered inflation-adjusted feature for real-value trend analysis.
 Created an end-to-end data pipeline from raw dataset → cleaned dataset → SQL transformation → dashboard reporting.
 
-Analyzed 389,002 transactions with 0.58% fraud rate (2,252 fraud cases).
-Identified fraud transactions averaging $518 vs $67 for legitimate transactions (7.6x higher).
-Detected highest fraud concentration in online shopping categories (1.63% fraud rate).
-Established transaction amount as strongest predictor (35.8% feature importance, 0.21 correlation).
-Built Random Forest model (200 estimators) for feature ranking and fraud signal extraction.
-Verified data integrity: 0 missing values, 0 duplicates, 0 invalid labels.
-
 
 
 
